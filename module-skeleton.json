@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-fraud-and-risk-nuxt",
+  "capabilityKey": "planned:ecommerce:fraud-and-risk",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-fraud-and-risk-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/fraud-and-risk.md",
+  "presentationPlan": "projects/ecommerce/nuxt/fraud-and-risk.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
